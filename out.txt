@@ -1,0 +1,6 @@
+for $tuple in join(for $b in document("book.xml")/book,$tb in $b/title
+return <tuple> {<b>{$b}</b>,<tb>{$tb}</tb>} </tuple>,
+for $a in document("book.xml")/book,$ta in $a/title
+return <tuple> {<a>{$a}</a>,<ta>{$ta}</ta>} </tuple>,
+[tb, b],[ta, a]
+ )return <book_with_prices>{$tb,<price_review>{$a/price/text()}</price_review>,<price>{$b/price/text()}</price>}</book_with_prices>

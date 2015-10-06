@@ -1,0 +1,2 @@
+for $tuple in 
+return <result>{<speaker>{$tuple/sp1/*/text()}</speaker>,<scene>{$tuple/sc1/*/text()}</scene>,<act>{$tuple/a/*/TITLE/text()}</act>}</result>

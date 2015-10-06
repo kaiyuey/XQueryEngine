@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<!DOCTYPE PLAY SYSTEM "play.dtd">
+
+<PLAY>
+<TITLE>The Tragedy of Julius Caesar</TITLE>
+
+<FM>
+<P>Text placed in the public domain by Moby Lexical Tools, 1992.</P>
+<P>SGML markup by Jon Bosak, 1992-1994.</P>
+<P>XML version by Jon Bosak, 1996-1998.</P>
+<P>This work may be freely copied and distributed worldwide.</P>
+</FM>
+
+
+<PERSONAE>
+<TITLE>Dramatis Personae</TITLE>
+
+<PERSONA>JULIUS CAESAR</PERSONA>
+
+<PGROUP>
+<PERSONA>OCTAVIUS CAESAR</PERSONA>
+<PERSONA>MARCUS ANTONIUS</PERSONA>
+<PERSONA>M. AEMILIUS LEPIDUS</PERSONA>
+<GRPDESCR>triumvirs after death of Julius Caesar.</GRPDESCR>
+</PGROUP>
+
+
+<PGROUP>
+<PERSONA>CICERO</PERSONA>
+<PERSONA>PUBLIUS</PERSONA>
+<PERSONA>POPILIUS LENA</PERSONA>
+<GRPDESCR>senators.</GRPDESCR>
+</PGROUP>
+
+
+<PGROUP>
+<PERSONA>MARCUS BRUTUS</PERSONA>
+<PERSONA>CASSIUS</PERSONA>
+<PERSONA>CASCA</PERSONA>
+<PERSONA>TREBONIUS</PERSONA>
+<PERSONA>LIGARIUS</PERSONA>
+<PERSONA>DECIUS BRUTUS</PERSONA>
+<PERSONA>METELLUS CIMBER</PERSONA>
+<PERSONA>CINNA</PERSONA>
+<GRPDESCR>conspirators against Julius Caesar.</GRPDESCR>
+</PGROUP>
+
+
+<PGROUP>
+<PERSONA>FLAVIUS</PERSONA>
+<PERSONA>MARULLUS</PERSONA>
+<GRPDESCR>tribunes.</GRPDESCR>
+</PGROUP>
+
+<PERSONA>ARTEMIDORUS Of Cnidos, a teacher of rhetoric. </PERSONA>
+<PERSONA>A Soothsayer</PERSONA>
+<PERSONA>CINNA, a poet. </PERSONA>
+<PERSONA>Another Poet</PERSONA>
+
+<PGROUP>
+<PERSONA>LUCILIUS</PERSONA>
+<PERSONA>TITINIUS</PERSONA>
+<PERSONA>MESSALA</PERSONA>
+<PERSONA>Young CATO</PERSONA>
+<PERSONA>VOLUMNIUS</PERSONA>
+<GRPDESCR>friends to Brutus and Cassius.</GRPDESCR>
+</PGROUP>
+
+
+<PGROUP>
+<PERSONA>VARRO</PERSONA>
+<PERSONA>CLITUS</PERSONA>
+<PERSONA>CLAUDIUS</PERSONA>
+<PERSONA>STRATO</PERSONA>
+<PERSONA>LUCIUS</PERSONA>
+<PERSONA>DARDANIUS</PERSONA>
+<GRPDESCR>servants to Brutus.</GRPDESCR>
+</PGROUP>
+
+<PERSONA>PINDARUS, servant to Cassius.</PERSONA>
+<PERSONA>CALPURNIA, wife to Caesar.</PERSONA>
+<PERSONA>PORTIA, wife to Brutus.</PERSONA>
+<PERSONA>Senators, Citizens, Guards, Attendants, &amp;c.</PERSONA>
+</PERSONAE>
+
+<SCNDESCR>SCENE  Rome: the neighbourhood of Sardis: the neighbourhood of Philippi.</SCNDESCR>
+
+<PLAYSUBT>JULIUS CAESAR</PLAYSUBT>
+
+<ACT><TITLE>ACT I</TITLE>
+
+<SCENE><TITLE>SCENE I.  Rome. A street.</TITLE>
+<STAGEDIR>Enter FLAVIUS, MARULLUS, and certain Commoners</STAGEDIR>
+
+<SPEECH>
+<SPEAKER>FLAVIUS</SPEAKER>
+<LINE>Hence! home, you idle creatures get you home:</LINE>
+<LINE>Is this a holiday? what! know you not,</LINE>
+<LINE>Being mechanical, you ought not walk</LINE>
+<LINE>Upon a labouring day without the sign</LINE>
+<LINE>Of your profession? Speak, what trade art thou?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>First Commoner</SPEAKER>
+<LINE>Why, sir, a carpenter.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>Where is thy leather apron and thy rule?</LINE>
+<LINE>What dost thou with thy best apparel on?</LINE>
+<LINE>You, sir, what trade are you?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>Truly, sir, in respect of a fine workman, I am but,</LINE>
+<LINE>as you would say, a cobbler.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>But what trade art thou? answer me directly.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>A trade, sir, that, I hope, I may use with a safe</LINE>
+<LINE>conscience; which is, indeed, sir, a mender of bad soles.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>What trade, thou knave? thou naughty knave, what trade?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>Nay, I beseech you, sir, be not out with me: yet,</LINE>
+<LINE>if you be out, sir, I can mend you.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>What meanest thou by that? mend me, thou saucy fellow!</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>Why, sir, cobble you.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FLAVIUS</SPEAKER>
+<LINE>Thou art a cobbler, art thou?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>Truly, sir, all that I live by is with the awl: I</LINE>
+<LINE>meddle with no tradesman's matters, nor women's</LINE>
+<LINE>matters, but with awl. I am, indeed, sir, a surgeon</LINE>
+<LINE>to old shoes; when they are in great danger, I</LINE>
+<LINE>recover them. As proper men as ever trod upon</LINE>
+<LINE>neat's leather have gone upon my handiwork.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FLAVIUS</SPEAKER>
+<LINE>But wherefore art not in thy shop today?</LINE>
+<LINE>Why dost thou lead these men about the streets?</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>Second Commoner</SPEAKER>
+<LINE>Truly, sir, to wear out their shoes, to get myself</LINE>
+<LINE>into more work. But, indeed, sir, we make holiday,</LINE>
+<LINE>to see Caesar and to rejoice in his triumph.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>Wherefore rejoice? What conquest brings he home?</LINE>
+<LINE>What tributaries follow him to Rome,</LINE>
+<LINE>To grace in captive bonds his chariot-wheels?</LINE>
+<LINE>You blocks, you stones, you worse than senseless things!</LINE>
+<LINE>O you hard hearts, you cruel men of Rome,</LINE>
+<LINE>Knew you not Pompey? Many a time and oft</LINE>
+<LINE>Have you climb'd up to walls and battlements,</LINE>
+<LINE>To towers and windows, yea, to chimney-tops,</LINE>
+<LINE>Your infants in your arms, and there have sat</LINE>
+<LINE>The livelong day, with patient expectation,</LINE>
+<LINE>To see great Pompey pass the streets of Rome:</LINE>
+<LINE>And when you saw his chariot but appear,</LINE>
+<LINE>Have you not made an universal shout,</LINE>
+<LINE>That Tiber trembled underneath her banks,</LINE>
+<LINE>To hear the replication of your sounds</LINE>
+<LINE>Made in her concave shores?</LINE>
+<LINE>And do you now put on your best attire?</LINE>
+<LINE>And do you now cull out a holiday?</LINE>
+<LINE>And do you now strew flowers in his way</LINE>
+<LINE>That comes in triumph over Pompey's blood? Be gone!</LINE>
+<LINE>Run to your houses, fall upon your knees,</LINE>
+<LINE>Pray to the gods to intermit the plague</LINE>
+<LINE>That needs must light on this ingratitude.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FLAVIUS</SPEAKER>
+<LINE>Go, go, good countrymen, and, for this fault,</LINE>
+<LINE>Assemble all the poor men of your sort;</LINE>
+<LINE>Draw them to Tiber banks, and weep your tears</LINE>
+<LINE>Into the channel, till the lowest stream</LINE>
+<LINE>Do kiss the most exalted shores of all.</LINE>
+<STAGEDIR>Exeunt all the Commoners</STAGEDIR>
+<LINE>See whether their basest metal be not moved;</LINE>
+<LINE>They vanish tongue-tied in their guiltiness.</LINE>
+<LINE>Go you down that way towards the Capitol;</LINE>
+<LINE>This way will I disrobe the images,</LINE>
+<LINE>If you do find them deck'd with ceremonies.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>MARULLUS</SPEAKER>
+<LINE>May we do so?</LINE>
+<LINE>You know it is the feast of Lupercal.</LINE>
+</SPEECH>
+
+<SPEECH>
+<SPEAKER>FLAVIUS</SPEAKER>
+<LINE>It is no matter; let no images</LINE>
+<LINE>Be hung with Caesar's trophies. I'll about,</LINE>
+<LINE>And drive away the vulgar from the streets:</LINE>
+<LINE>So do you too, where you perceive them thick.</LINE>
+<LINE>These growing feathers pluck'd from Caesar's wing</LINE>
+<LINE>Will make him fly an ordinary pitch,</LINE>
+<LINE>Who else would soar above the view of men</LINE>
+<LINE>And keep us all in servile fearfulness.</LINE>
+</SPEECH>
+
+
+<STAGEDIR>Exeunt</STAGEDIR>
+</SCENE>
+
+
+ 
+
+</ACT>
+
+ 
+</PLAY>
